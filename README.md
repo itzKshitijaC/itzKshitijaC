@@ -7,7 +7,7 @@ Data Analyst
 I thrive on playing with data and transforming raw information into actionable insights.
 
 * 🌍  I'm based in Nagpur, Maharashtra, India
-* 🖥️  See my portfolio at [I will provide the link later](https://dataanalystkshitija.my.canva.site/home)
+* 🖥️  See my portfolio [here](https://dataanalystkshitija.my.canva.site/home)
 * ✉️  You can contact me at [kshitijachilbule2@gmail.com](mailto:kshitijachilbule2@gmail.com )
 * 🧠  I'm learning Data Analytics
 * ⚡  I love playing with the Data !!
