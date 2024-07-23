@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kshitija Chilbule
 =========================================================================================================================================
 
-Business Analyst
+Data Analyst
 ------------
 
 I thrive on playing with data and transforming raw information into actionable insights.
 
 * 🌍  I'm based in Nagpur, Maharashtra, India
-* 🖥️  See my portfolio [here](https://dataanalystkshitija.my.canva.site/home)
+* 🖥️  See my portfolio [here]()
 * ✉️  You can contact me at [kshitijachilbule2@gmail.com](mailto:kshitijachilbule2@gmail.com )
-* 🧠  I'm an aspiring Business Analyst
+* 🧠  I'm an aspiring Data Analyst
 * ⚡  I love understanding business acumen and playing with the real data
 
 <a href="https://www.github.com/itzKshitijaC" target="_blank" rel="noreferrer"><img
